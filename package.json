@@ -1,0 +1,11 @@
+{
+  "name": "bitcoin-web-console",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grubstarstar/bitcoin-web-console",
+  "author": "Richard Garner",
+  "license": "MIT",
+  "dependencies": {
+    "currency.js": "^2.0.4"
+  }
+}
